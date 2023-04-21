@@ -1,0 +1,2 @@
+tail -f /root/qq-example/bot.log
+tail -f /root/qq-example/cqhttp/cqhttp.log
