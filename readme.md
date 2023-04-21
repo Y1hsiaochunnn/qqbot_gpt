@@ -44,3 +44,12 @@ gpt3_proxy = "http://127.0.0.1:7890"               # 代理地址
 openai_api_key = "YOU_TOKEN"
 ```
 YOU_TOKEN需要在OPENAI官方API接口拿到token
+
+# 欢迎大家加入群聊讨论：
+
+
+
+![47f5fe028b392c5a9f9f4d2daabcf6a](https://user-images.githubusercontent.com/66012385/233553152-ae7a45db-9d91-493e-8c1b-1bd5b48e9935.jpg)
+
+
+
