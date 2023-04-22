@@ -27,6 +27,24 @@ nonebot.load_plugin('nonebot_plugin_gpt3')
 ```
 
 
+## 如何在服务器上启动自己的项目
+
+1.在服务器上启动自己的项目需要将cqhttp生成的证书和私钥一并复制到云服务器，然后切换到目录下执行
+
+```shell
+./bot_control.sh start
+```
+
+2.停止
+```shell
+./bot_control.sh stop
+```
+
+3.重启
+```shell
+./bot_control.sh restart
+```
+
 ## 项目核心
 1.cqhttp
 
